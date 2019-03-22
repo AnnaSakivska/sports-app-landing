@@ -19,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="118" column="11" selection-start-line="118" selection-start-column="11" selection-end-line="118" selection-end-column="11" />
+            <state relative-caret-position="178">
+              <caret line="149" column="7" lean-forward="true" selection-start-line="149" selection-start-column="7" selection-end-line="149" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -40,6 +40,9 @@
       <map>
         <entry key="$PROJECT_DIR$" value="4bd95656f5936077f44d56c4f35308ff67dfbb2e" />
       </map>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
     </option>
   </component>
   <component name="IdeDocumentHistory">
@@ -192,11 +195,25 @@
       <option name="project" value="LOCAL" />
       <updated>1553282230859</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="&lt;a&gt; tags were wrapped in &lt;ul&gt; #3">
+      <created>1553282765572</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1553282765572</updated>
+    </task>
+    <task id="LOCAL-00013" summary="&lt;a&gt; tags were wrapped in &lt;ul&gt; #3">
+      <created>1553282950204</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1553282950204</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34279000" />
+    <option name="totallyTimeSpent" value="35016000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -275,7 +292,8 @@
     <MESSAGE value="has been wrapped in &lt;ul&gt;" />
     <MESSAGE value="has been wrapped in &lt;ul&gt; #3" />
     <MESSAGE value="image was change to &lt;fieldset&gt; #4" />
-    <option name="LAST_COMMIT_MESSAGE" value="image was change to &lt;fieldset&gt; #4" />
+    <MESSAGE value="&lt;a&gt; tags were wrapped in &lt;ul&gt; #3" />
+    <option name="LAST_COMMIT_MESSAGE" value="&lt;a&gt; tags were wrapped in &lt;ul&gt; #3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/sport_app_landing.html" />
@@ -290,8 +308,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="118" column="11" selection-start-line="118" selection-start-column="11" selection-end-line="118" selection-end-column="11" />
+        <state relative-caret-position="178">
+          <caret line="149" column="7" lean-forward="true" selection-start-line="149" selection-start-column="7" selection-end-line="149" selection-end-column="7" />
         </state>
       </provider>
     </entry>
