@@ -18,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1399">
-              <caret line="149" column="7" selection-start-line="149" selection-start-column="7" selection-end-line="149" selection-end-column="7" />
+            <state relative-caret-position="119">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -116,7 +116,7 @@
       <updated>1553183206425</updated>
       <workItem from="1553183216201" duration="6244000" />
       <workItem from="1553206280419" duration="22436000" />
-      <workItem from="1553286484317" duration="185000" />
+      <workItem from="1553286484317" duration="1429000" />
     </task>
     <task id="LOCAL-00001" summary="&lt;header&gt; was changed to &lt;article&gt;">
       <created>1553224795903</created>
@@ -216,11 +216,25 @@
       <option name="project" value="LOCAL" />
       <updated>1553283351226</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Unneeded usage of p tag - fixed #7">
+      <created>1553286849575</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1553286849575</updated>
+    </task>
+    <task id="LOCAL-00016" summary="div -&gt; section - fixed, but still confusing #6">
+      <created>1553287397750</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1553287397750</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35943000" />
+    <option name="totallyTimeSpent" value="37116000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -301,7 +315,9 @@
     <MESSAGE value="image was change to &lt;fieldset&gt; #4" />
     <MESSAGE value="&lt;a&gt; tags were wrapped in &lt;ul&gt; #3" />
     <MESSAGE value="last two &lt;div&gt; are now changed to &lt;ul&gt; #5" />
-    <option name="LAST_COMMIT_MESSAGE" value="last two &lt;div&gt; are now changed to &lt;ul&gt; #5" />
+    <MESSAGE value="Unneeded usage of p tag - fixed #7" />
+    <MESSAGE value="div -&gt; section - fixed, but still confusing #6" />
+    <option name="LAST_COMMIT_MESSAGE" value="div -&gt; section - fixed, but still confusing #6" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/sport_app_landing.html" />
@@ -316,8 +332,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1399">
-          <caret line="149" column="7" selection-start-line="149" selection-start-column="7" selection-end-line="149" selection-end-column="7" />
+        <state relative-caret-position="119">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
         </state>
       </provider>
     </entry>
