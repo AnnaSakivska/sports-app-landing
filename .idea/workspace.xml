@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
+    <list id="736ad523-32c2-4983-8cac-4c8e9e6a4ec8" name="Unneeded fieldset here -&gt; fixed #6" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -19,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+            <state relative-caret-position="102">
+              <caret line="57" column="47" selection-start-line="57" selection-start-column="47" selection-end-line="57" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -38,7 +39,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="4bd95656f5936077f44d56c4f35308ff67dfbb2e" />
+        <entry key="$PROJECT_DIR$" value="2824813ab63f0d37814e6f9e96f4a357e8b095fb" />
       </map>
     </option>
     <option name="PUSH_TAGS">
@@ -65,7 +66,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -77,6 +77,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -116,7 +117,7 @@
       <workItem from="1553288391191" duration="1459000" />
       <workItem from="1553328705280" duration="1026000" />
       <workItem from="1553334878110" duration="687000" />
-      <workItem from="1553348865036" duration="649000" />
+      <workItem from="1553348865036" duration="2015000" />
     </task>
     <task id="LOCAL-00001" summary="&lt;header&gt; was changed to &lt;article&gt;">
       <created>1553224795903</created>
@@ -237,11 +238,48 @@
       <option name="project" value="LOCAL" />
       <updated>1553288621598</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Unneeded fieldset here -&gt; fixed #6">
+      <created>1553349587142</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1553349587142</updated>
+    </task>
+    <task id="LOCAL-00019" summary="type=&quot;button&quot; is changed to &quot;checkbox&quot; #9">
+      <created>1553349796814</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1553349796814</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Unneeded fieldset here -&gt; fixed #6">
+      <changelist id="736ad523-32c2-4983-8cac-4c8e9e6a4ec8" name="Unneeded fieldset here -&gt; fixed #6" comment="" />
+      <created>1553349883434</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1553349883434</updated>
+    </task>
+    <task id="LOCAL-00021" summary="fieldset tag is deleted #8">
+      <created>1553350220309</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1553350220309</updated>
+    </task>
+    <task id="LOCAL-00022" summary="type=&quot;button&quot; is now changed to &quot;checkbox&quot; #9">
+      <created>1553350321265</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1553350321265</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
+    <option name="trackContextForNewChangelist" value="true" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40937000" />
+    <option name="totallyTimeSpent" value="42303000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -258,9 +296,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.33551556" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49776787" weight="0.29787233" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50223213" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49925596" weight="0.33551556" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49776787" visible="true" weight="0.29787233" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50074404" side_tool="true" weight="0.33551556" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -325,7 +363,11 @@
     <MESSAGE value="Unneeded usage of p tag - fixed #7" />
     <MESSAGE value="div -&gt; section - fixed, but still confusing #6" />
     <MESSAGE value="all divs -&gt; sections  #6" />
-    <option name="LAST_COMMIT_MESSAGE" value="all divs -&gt; sections  #6" />
+    <MESSAGE value="Unneeded fieldset here -&gt; fixed #6" />
+    <MESSAGE value="type=&quot;button&quot; is changed to &quot;checkbox&quot; #9" />
+    <MESSAGE value="fieldset tag is deleted #8" />
+    <MESSAGE value="type=&quot;button&quot; is now changed to &quot;checkbox&quot; #9" />
+    <option name="LAST_COMMIT_MESSAGE" value="type=&quot;button&quot; is now changed to &quot;checkbox&quot; #9" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/sport_app_landing.html" />
@@ -340,8 +382,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+        <state relative-caret-position="102">
+          <caret line="57" column="47" selection-start-line="57" selection-start-column="47" selection-end-line="57" selection-end-column="47" />
         </state>
       </provider>
     </entry>
