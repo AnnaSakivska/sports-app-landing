@@ -85,7 +85,7 @@ body {
   height: 592px;
   background: linear-gradient(270deg, var(--white_color) 5.16%,
   rgba(255, 255, 255, 0) 67.14%),
-  url("img/players_hugs.png") no-repeat;
+    url("img/players_hugs.png") no-repeat;
 }
 
 .flash-card {
