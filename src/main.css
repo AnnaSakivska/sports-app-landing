@@ -85,7 +85,7 @@ body {
   height: 592px;
   background: linear-gradient(270deg, var(--white_color) 5.16%,
   rgba(255, 255, 255, 0) 67.14%),
-    url("img/players_hugs.png") no-repeat;
+  url("img/players_hugs.png") no-repeat;
 }
 
 .flash-card {
@@ -377,25 +377,21 @@ body {
 }
 
 .phone-app-picture::before {
-  content: "";
-  background: url("img/mobile-bell.png");
+  content: url("img/mobile-bell.png");
   position: absolute;
-  background-size: contain;
-  width: 100px;
-  height: 100px;
-  top: 60px;
-  left: 30px;
+  width: 91px;
+  height: 91px;
+  top: 50px;
+  left: 8px;
 }
 
 .phone-app-picture::after {
-  content: "";
-  background: url("img/mobile-after.png");
+  content: url("img/mobile-after.png");
   position: absolute;
-  background-size: contain;
-  width: 100px;
-  height: 100px;
-  bottom: 228px;
-  right: -15px;
+  width: 91px;
+  height: 91px;
+  bottom: 257px;
+  right: 2px;
 }
 
 .phone-radiation__1 {

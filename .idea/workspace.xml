@@ -1,86 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3980eedd-5f72-40cd-9cd1-07c324698e9d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/fonts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/ProductSans-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/LOGO.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/Sarah_Udoma.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/arrow_left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/arrow_right.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/arsenal-f-c-seeklogo.com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/checking_score.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/chelsea-fc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/dot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/mobile-after.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/mobile-bell.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/new_video_section.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/twitter.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vars.css" afterDir="false" />
+    <list default="true" id="3980eedd-5f72-40cd-9cd1-07c324698e9d" name="Default Changelist" comment="new homework">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/NBC.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/NBC.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/NBC.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TV.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TV.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/TV.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/apple_store.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/apple_store.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/apple_store.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/checking_score.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/darren.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/darren.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/darren.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/designer-news.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/designer-news.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/designer-news.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/designer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/designer.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/designer.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/facebook.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/facebook.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/facebook.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/google_play.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/google_play.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/google_play.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/guardian.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/guardian.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/guardian.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/instagram.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/instagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/instagram.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/live_updates.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/live_updates.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/live_updates.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/match_notifications.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/match_notifications.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/match_notifications.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/match_pages.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/match_pages.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/match_pages.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/michael.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/michael.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/michael.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/mobiles.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/mobiles.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/mobiles.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/new_picture.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/new_picture.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/new_picture.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/new_video_section.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/new_video_section.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/brand.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/noah.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/noah.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/noah.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/notification.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/notification.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/notification.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/personalising.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/personalising.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/personalising.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/players_hugs.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/players_hugs.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/players_hugs.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/premier_league.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/premier_league.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/premier_league.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/reports.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/reports.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/reports.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/sky-sports-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/sky-sports-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/sky-sports-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/sportTV.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/sportTV.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/sportTV.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/sports.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/sports.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/sports.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/twitter.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/twitter.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/twitter.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/vector.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/vector.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/vector.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/video.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/video.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/video.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/video/soccer_game.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/video/soccer_game.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/src/video/soccer_game.mp4" afterDir="false" />
     </list>
     <list id="736ad523-32c2-4983-8cac-4c8e9e6a4ec8" name="Unneeded fieldset here -&gt; fixed #6" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -99,7 +22,7 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="136">
+                <state relative-caret-position="415">
                   <caret line="47" selection-start-line="47" selection-end-line="48" />
                 </state>
               </provider>
@@ -130,8 +53,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-272">
-                  <caret line="11" selection-start-line="8" selection-end-line="11" />
+                <state relative-caret-position="102">
+                  <caret line="381" column="2" selection-start-line="381" selection-start-column="2" selection-end-line="381" selection-end-column="2" />
                 </state>
               </provider>
             </entry>
@@ -185,8 +108,8 @@
         <option value="$PROJECT_DIR$/src/js.js" />
         <option value="$PROJECT_DIR$/src/vars.css" />
         <option value="$PROJECT_DIR$/src/fonts.css" />
-        <option value="$PROJECT_DIR$/src/main.css" />
         <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/src/main.css" />
       </list>
     </option>
   </component>
@@ -202,7 +125,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -210,17 +132,23 @@
               <item name="sports-app-landing" type="b2602c69:ProjectViewProjectNode" />
               <item name="sports-app-landing" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="sports-app-landing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sports-app-landing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../candies_project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -268,7 +196,9 @@
       <workItem from="1555344544393" duration="2621000" />
       <workItem from="1555402177055" duration="21741000" />
       <workItem from="1555427410076" duration="107000" />
-      <workItem from="1555428426482" duration="35152000" />
+      <workItem from="1555428426482" duration="36102000" />
+      <workItem from="1555507615647" duration="669000" />
+      <workItem from="1555508435544" duration="834000" />
     </task>
     <task id="LOCAL-00001" summary="&lt;header&gt; was changed to &lt;article&gt;">
       <created>1553224795903</created>
@@ -439,17 +369,24 @@
       <option name="project" value="LOCAL" />
       <updated>1553351329794</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="new homework">
+      <created>1555464304744</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1555464304744</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <option name="trackContextForNewChangelist" value="true" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135225000" />
+    <option name="totallyTimeSpent" value="137678000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33705357" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15848215" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -533,7 +470,8 @@
     <MESSAGE value="type=&quot;button&quot; is now changed to &quot;checkbox&quot; #9" />
     <MESSAGE value="added title to section #10" />
     <MESSAGE value="anchor tags are removed #11" />
-    <option name="LAST_COMMIT_MESSAGE" value="anchor tags are removed #11" />
+    <MESSAGE value="new homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="new homework" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/sport_app_landing.html" />
@@ -579,10 +517,11 @@
     <entry file="file://$PROJECT_DIR$/src/img/twitter.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js.js">
+    <entry file="file://$PROJECT_DIR$/src/js.js" />
+    <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="24" />
+        <state relative-caret-position="415">
+          <caret line="47" selection-start-line="47" selection-end-line="48" />
         </state>
       </provider>
     </entry>
@@ -602,15 +541,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-272">
-          <caret line="11" selection-start-line="8" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="47" selection-start-line="47" selection-end-line="48" />
+        <state relative-caret-position="102">
+          <caret line="381" column="2" selection-start-line="381" selection-start-column="2" selection-end-line="381" selection-end-column="2" />
         </state>
       </provider>
     </entry>
