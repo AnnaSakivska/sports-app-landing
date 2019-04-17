@@ -2,8 +2,85 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3980eedd-5f72-40cd-9cd1-07c324698e9d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProductSans-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/LOGO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Sarah_Udoma.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/arrow_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/arrow_right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/arsenal-f-c-seeklogo.com.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/checking_score.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/chelsea-fc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/mobile-after.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/mobile-bell.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/new_video_section.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/twitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vars.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/NBC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/NBC.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/NBC.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/TV.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/TV.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/TV.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/apple_store.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/apple_store.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/apple_store.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/checking_score.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/darren.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/darren.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/darren.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/designer-news.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/designer-news.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/designer-news.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/designer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/designer.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/designer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/facebook.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/facebook.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/google_play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/google_play.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/google_play.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/guardian.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/guardian.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/guardian.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/instagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/instagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/instagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/live_updates.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/live_updates.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/live_updates.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/match_notifications.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/match_notifications.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/match_notifications.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/match_pages.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/match_pages.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/match_pages.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/michael.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/michael.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/michael.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/mobiles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/mobiles.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/mobiles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/new_picture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/new_picture.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/new_picture.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/new_video_section.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/new_video_section.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/brand.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/noah.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/noah.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/noah.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/notification.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/notification.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/notification.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/personalising.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/personalising.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/personalising.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/players_hugs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/players_hugs.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/players_hugs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/premier_league.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/premier_league.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/premier_league.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/reports.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/reports.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/reports.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sky-sports-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sky-sports-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/sky-sports-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sportTV.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sportTV.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/sportTV.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sports.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sports.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/sports.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/twitter.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/twitter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/vector.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/vector.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/vector.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/video.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/video.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/video.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/soccer_game.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/soccer_game.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/src/video/soccer_game.mp4" afterDir="false" />
     </list>
     <list id="736ad523-32c2-4983-8cac-4c8e9e6a4ec8" name="Unneeded fieldset here -&gt; fixed #6" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -16,24 +93,79 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="57" column="47" selection-start-line="57" selection-start-column="47" selection-end-line="57" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.57881135">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="136">
+                  <caret line="47" selection-start-line="47" selection-end-line="48" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/fonts.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="68">
+                  <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/vars.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="119">
+                  <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-272">
+                  <caret line="11" selection-start-line="8" selection-end-line="11" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>first-block__header</find>
+      <find>dark</find>
+      <find>top</find>
+      <find>_top</find>
+      <find>vide</find>
+      <find>--grey-ba</find>
+      <find>--grey</find>
+      <find>optio</find>
+      <find>twi</find>
+      <find>carousel__track-container</find>
+      <find>turn</find>
+      <find>--grey_</find>
+      <find>Get s</find>
+      <find>phone-app-picture</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,6 +182,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/sport_app_landing.html" />
+        <option value="$PROJECT_DIR$/src/js.js" />
+        <option value="$PROJECT_DIR$/src/vars.css" />
+        <option value="$PROJECT_DIR$/src/fonts.css" />
+        <option value="$PROJECT_DIR$/src/main.css" />
         <option value="$PROJECT_DIR$/src/index.html" />
       </list>
     </option>
@@ -57,7 +193,7 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="18" />
-    <option name="width" value="595" />
+    <option name="width" value="811" />
     <option name="height" value="688" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -66,6 +202,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -77,17 +214,25 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../candies_project" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\mate_academy\sports-app-landing\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\mate_academy\sports-app-landing\img" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -117,7 +262,13 @@
       <workItem from="1553288391191" duration="1459000" />
       <workItem from="1553328705280" duration="1026000" />
       <workItem from="1553334878110" duration="687000" />
-      <workItem from="1553348865036" duration="2015000" />
+      <workItem from="1553348865036" duration="3105000" />
+      <workItem from="1554745369835" duration="2933000" />
+      <workItem from="1555269355843" duration="29237000" />
+      <workItem from="1555344544393" duration="2621000" />
+      <workItem from="1555402177055" duration="21741000" />
+      <workItem from="1555427410076" duration="107000" />
+      <workItem from="1555428426482" duration="35152000" />
     </task>
     <task id="LOCAL-00001" summary="&lt;header&gt; was changed to &lt;article&gt;">
       <created>1553224795903</created>
@@ -274,18 +425,31 @@
       <option name="project" value="LOCAL" />
       <updated>1553350321265</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="added title to section #10">
+      <created>1553350964253</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1553350964253</updated>
+    </task>
+    <task id="LOCAL-00024" summary="anchor tags are removed #11">
+      <created>1553351329794</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1553351329794</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <option name="trackContextForNewChangelist" value="true" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42303000" />
+    <option name="totallyTimeSpent" value="135225000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.07589286" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33705357" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -297,7 +461,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49925596" weight="0.33551556" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49776787" visible="true" weight="0.29787233" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49776787" visible="true" weight="0.2700491" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50074404" side_tool="true" weight="0.33551556" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -367,23 +531,86 @@
     <MESSAGE value="type=&quot;button&quot; is changed to &quot;checkbox&quot; #9" />
     <MESSAGE value="fieldset tag is deleted #8" />
     <MESSAGE value="type=&quot;button&quot; is now changed to &quot;checkbox&quot; #9" />
-    <option name="LAST_COMMIT_MESSAGE" value="type=&quot;button&quot; is now changed to &quot;checkbox&quot; #9" />
+    <MESSAGE value="added title to section #10" />
+    <MESSAGE value="anchor tags are removed #11" />
+    <option name="LAST_COMMIT_MESSAGE" value="anchor tags are removed #11" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/sport_app_landing.html" />
-    <entry file="file://$PROJECT_DIR$/img/apple_store.png">
+    <entry file="file://$PROJECT_DIR$/src/img/apple_store.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/facebook.png">
+    <entry file="file://$PROJECT_DIR$/src/img/facebook.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/instagram.png">
+    <entry file="file://$PROJECT_DIR$/src/img/instagram.png">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fonts/ProductSans-Regular.ttf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/chelsea-fc.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/arsenal-f-c-seeklogo.com.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/players_hugs.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/LOGO.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/mobiles.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/vector.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/video.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/arrow_left.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/arrow_right.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/twitter.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fonts.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vars.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-272">
+          <caret line="11" selection-start-line="8" selection-end-line="11" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="57" column="47" selection-start-line="57" selection-start-column="47" selection-end-line="57" selection-end-column="47" />
+        <state relative-caret-position="136">
+          <caret line="47" selection-start-line="47" selection-end-line="48" />
         </state>
       </provider>
     </entry>

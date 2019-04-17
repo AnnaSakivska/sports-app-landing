@@ -1,0 +1,15 @@
+html {
+  --white_color: #fff;
+  --dark-grey_color: #333;
+  --dark_color: #000;
+  --grey-white_color: #4f4f4f;
+  --grey_backgound_color: #eee;
+  --grey-label_color: #969696;
+  --light_blue_color: #00adee;
+  --grey_block-background_color: #f4f6f9;
+  --label_after_color: rgba(0, 0, 0, 0.25);
+}
+
+body {
+  --lato-font: "Lato", serif;
+}
