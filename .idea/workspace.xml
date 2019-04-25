@@ -2,7 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3980eedd-5f72-40cd-9cd1-07c324698e9d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/WOW-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/WOW-master/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/WOW-master/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/WOW-master/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/WOW-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/WOW-master/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/WOW-master/css/libs/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/WOW-master/css/site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/WOW-master/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/WOW-master/dist/wow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/WOW-master/dist/wow.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/WOW-master/dist/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/WOW-master/dist/wow.min.js.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/WOW-master/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/WOW-master/spec/coffeescripts/helpers/SpecHelper.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/WOW-master/spec/coffeescripts/wow-spec.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/WOW-master/spec/javascripts/fixtures/custom.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/WOW-master/spec/javascripts/fixtures/simple.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/WOW-master/spec/javascripts/helpers/SpecHelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/WOW-master/spec/javascripts/libs/jasmine-jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/WOW-master/spec/javascripts/libs/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/WOW-master/spec/javascripts/wow-spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/WOW-master/src/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/WOW-master/src/WOW.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/arsenal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/chelsea.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/logo_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sports-app-landing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sports-app-landing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vars.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/vars.css" afterDir="false" />
     </list>
     <list id="736ad523-32c2-4983-8cac-4c8e9e6a4ec8" name="Unneeded fieldset here -&gt; fixed #6" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -15,23 +47,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.57881135">
+    <splitter split-orientation="horizontal" split-proportion="0.78033656">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="415">
-                  <caret line="47" selection-start-line="47" selection-end-line="48" />
+                <state relative-caret-position="131">
+                  <caret line="42" column="46" lean-forward="true" selection-start-line="42" selection-start-column="46" selection-end-line="42" selection-end-column="46" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/fonts.css">
+            <entry file="file://$PROJECT_DIR$/src/index.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="68">
-                  <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+                <state relative-caret-position="204">
+                  <caret line="12" selection-start-line="12" selection-end-line="12" />
                 </state>
               </provider>
             </entry>
@@ -39,8 +71,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/vars.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="119">
-                  <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+                <state relative-caret-position="136">
+                  <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="20" />
                 </state>
               </provider>
             </entry>
@@ -52,10 +84,15 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="221">
-                  <caret line="88" column="1" lean-forward="true" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
+                <state relative-caret-position="208">
+                  <caret line="870" column="1" selection-start-line="870" selection-start-column="1" selection-end-line="870" selection-end-column="1" />
                 </state>
               </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/img/arsenal-f-c-seeklogo.com.png">
+              <provider selected="true" editor-type-id="images" />
             </entry>
           </file>
         </leaf>
@@ -77,16 +114,23 @@
       <find>dark</find>
       <find>top</find>
       <find>_top</find>
-      <find>vide</find>
       <find>--grey-ba</find>
       <find>--grey</find>
       <find>optio</find>
       <find>twi</find>
-      <find>carousel__track-container</find>
       <find>turn</find>
       <find>--grey_</find>
       <find>Get s</find>
       <find>phone-app-picture</find>
+      <find>carousal__track</find>
+      <find>carousal_</find>
+      <find>in-g</find>
+      <find>carousel__track-container</find>
+      <find>chel</find>
+      <find>second-blo</find>
+      <find>vide</find>
+      <find>soci</find>
+      <find>phone</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -105,10 +149,12 @@
       <list>
         <option value="$PROJECT_DIR$/sport_app_landing.html" />
         <option value="$PROJECT_DIR$/src/js.js" />
-        <option value="$PROJECT_DIR$/src/vars.css" />
         <option value="$PROJECT_DIR$/src/fonts.css" />
-        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/src/vars.css" />
+        <option value="$PROJECT_DIR$/src/main.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/main.css" />
+        <option value="$PROJECT_DIR$/src/index.html" />
       </list>
     </option>
   </component>
@@ -131,11 +177,6 @@
               <item name="sports-app-landing" type="b2602c69:ProjectViewProjectNode" />
               <item name="sports-app-landing" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="sports-app-landing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sports-app-landing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -145,9 +186,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -155,9 +197,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\mate_academy\sports-app-landing" />
       <recent name="D:\mate_academy\sports-app-landing\src" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\mate_academy\sports-app-landing\src\img" />
       <recent name="D:\mate_academy\sports-app-landing\img" />
     </key>
   </component>
@@ -197,7 +241,19 @@
       <workItem from="1555427410076" duration="107000" />
       <workItem from="1555428426482" duration="36102000" />
       <workItem from="1555507615647" duration="669000" />
-      <workItem from="1555508435544" duration="1138000" />
+      <workItem from="1555508435544" duration="1698000" />
+      <workItem from="1555511565518" duration="950000" />
+      <workItem from="1555516845156" duration="654000" />
+      <workItem from="1555918301228" duration="16031000" />
+      <workItem from="1555949655490" duration="3072000" />
+      <workItem from="1556005058570" duration="3721000" />
+      <workItem from="1556009029738" duration="6297000" />
+      <workItem from="1556045157368" duration="10677000" />
+      <workItem from="1556091366396" duration="25484000" />
+      <workItem from="1556122782625" duration="537000" />
+      <workItem from="1556190379164" duration="571000" />
+      <workItem from="1556196790547" duration="603000" />
+      <workItem from="1556219171706" duration="11796000" />
     </task>
     <task id="LOCAL-00001" summary="&lt;header&gt; was changed to &lt;article&gt;">
       <created>1553224795903</created>
@@ -382,29 +438,53 @@
       <option name="project" value="LOCAL" />
       <updated>1555509383712</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="few changes in pseudo classes after and before">
+      <created>1555509613956</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1555509613956</updated>
+    </task>
+    <task id="LOCAL-00028" summary="few changes in pseudo classes after and before">
+      <created>1555509811396</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1555509811396</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <option name="trackContextForNewChangelist" value="true" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137982000" />
+    <option name="totallyTimeSpent" value="218935000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15848215" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15997024" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="npm" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49925596" weight="0.33551556" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49776787" visible="true" weight="0.2700491" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49776787" visible="true" weight="0.3633388" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50074404" side_tool="true" weight="0.33551556" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -494,12 +574,6 @@
     <entry file="file://$PROJECT_DIR$/src/fonts/ProductSans-Regular.ttf">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/img/chelsea-fc.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/img/arsenal-f-c-seeklogo.com.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/img/players_hugs.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -525,12 +599,14 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/js.js" />
-    <entry file="file://$PROJECT_DIR$/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="47" selection-start-line="47" selection-end-line="48" />
-        </state>
-      </provider>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/arsenal-f-c-seeklogo.com.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/chelsea-fc.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fonts.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -541,15 +617,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/vars.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        <state relative-caret-position="136">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="88" column="1" lean-forward="true" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
+        <state relative-caret-position="208">
+          <caret line="870" column="1" selection-start-line="870" selection-start-column="1" selection-end-line="870" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="42" column="46" lean-forward="true" selection-start-line="42" selection-start-column="46" selection-end-line="42" selection-end-column="46" />
         </state>
       </provider>
     </entry>
