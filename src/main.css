@@ -427,13 +427,27 @@ body {
   left: -135px;
 }
 
-.dot {
-  background: url("img/dot.png") no-repeat;
-  width: 44px;
-  height: 44px;
+.dot_container {
   position: absolute;
-  bottom: 225px;
-  left: -95px;
+  width: 600px;
+  height: 600px;
+  border: transparent;
+  border-radius: 50%;
+  animation: rotate 25s linear infinite;
+  top: -15px;
+  left: -135px;
+}
+
+.moving-dot {
+  position: absolute;
+  top: 150px;
+  left: 10px;
+}
+
+@keyframes rotate {
+  100% {
+    transform: rotate(360deg);
+  }
 }
 
 .phone-radiation__3 {
