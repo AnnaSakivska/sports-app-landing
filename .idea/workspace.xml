@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3980eedd-5f72-40cd-9cd1-07c324698e9d" name="Default Changelist" comment="element is moving now #12">
-      <change afterPath="$PROJECT_DIR$/src/img/moving_dot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/moving_dot.svg" afterDir="false" />
+    <list default="true" id="3980eedd-5f72-40cd-9cd1-07c324698e9d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.css" afterDir="false" />
@@ -19,14 +17,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.54207265">
+    <splitter split-orientation="horizontal" split-proportion="0.53953487">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="62">
-                  <caret line="102" column="33" lean-forward="true" selection-start-line="102" selection-start-column="33" selection-end-line="102" selection-end-column="33" />
+                <state relative-caret-position="302">
+                  <caret line="338" selection-start-line="338" selection-end-line="338" />
                 </state>
               </provider>
             </entry>
@@ -34,8 +32,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/index.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="204">
-                  <caret line="12" selection-start-line="12" selection-end-line="12" />
+                <state>
+                  <caret selection-end-line="9" selection-end-column="5" />
                 </state>
               </provider>
             </entry>
@@ -56,8 +54,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="213">
-                  <caret line="447" column="8" lean-forward="true" selection-start-line="447" selection-start-column="8" selection-end-line="447" selection-end-column="8" />
+                <state relative-caret-position="162">
+                  <caret line="630" column="15" selection-start-line="630" selection-start-column="15" selection-end-line="630" selection-end-column="15" />
                 </state>
               </provider>
             </entry>
@@ -130,8 +128,8 @@
         <option value="$PROJECT_DIR$/src/fonts.css" />
         <option value="$PROJECT_DIR$/src/vars.css" />
         <option value="$PROJECT_DIR$/src/main.js" />
-        <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/img/moving_dot.svg" />
+        <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/index.html" />
         <option value="$PROJECT_DIR$/src/main.css" />
       </list>
@@ -149,29 +147,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="sports-app-landing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sports-app-landing" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sports-app-landing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sports-app-landing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sports-app-landing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sports-app-landing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -246,7 +223,8 @@
       <workItem from="1556219171706" duration="12745000" />
       <workItem from="1556345656855" duration="13000" />
       <workItem from="1556356753679" duration="194000" />
-      <workItem from="1556469583530" duration="6493000" />
+      <workItem from="1556469583530" duration="10566000" />
+      <workItem from="1556540788291" duration="3374000" />
     </task>
     <task id="LOCAL-00001" summary="&lt;header&gt; was changed to &lt;article&gt;">
       <created>1553224795903</created>
@@ -452,12 +430,19 @@
       <option name="project" value="LOCAL" />
       <updated>1556231402697</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="element is moving now #12">
+      <created>1556476459520</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1556476459520</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <option name="trackContextForNewChangelist" value="true" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="226584000" />
+    <option name="totallyTimeSpent" value="234031000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -471,7 +456,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15997024" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.096726194" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="npm" order="3" side_tool="true" />
@@ -484,7 +469,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49925596" weight="0.33551556" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49776787" visible="true" weight="0.32733223" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49776787" visible="true" weight="0.15384616" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50074404" side_tool="true" weight="0.33551556" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -559,7 +544,9 @@
     <MESSAGE value="new homework" />
     <MESSAGE value="few changes in pseudo classes after and before" />
     <MESSAGE value="more changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="more changes" />
+    <MESSAGE value="element is moving now #12" />
+    <MESSAGE value="dt/dl are replaced by ul, li #16" />
+    <option name="LAST_COMMIT_MESSAGE" value="dt/dl are replaced by ul, li #16" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/sport_app_landing.html" />
@@ -615,8 +602,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state>
+          <caret selection-end-line="9" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -627,23 +614,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/img/arsenal-f-c-seeklogo.com.png">
+    <entry file="file://$PROJECT_DIR$/src/img/moving_dot.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/img/moving_dot.svg">
+    <entry file="file://$PROJECT_DIR$/src/img/arsenal-f-c-seeklogo.com.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="102" column="33" lean-forward="true" selection-start-line="102" selection-start-column="33" selection-end-line="102" selection-end-column="33" />
+        <state relative-caret-position="302">
+          <caret line="338" selection-start-line="338" selection-end-line="338" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="447" column="8" lean-forward="true" selection-start-line="447" selection-start-column="8" selection-end-line="447" selection-end-column="8" />
+        <state relative-caret-position="162">
+          <caret line="630" column="15" selection-start-line="630" selection-start-column="15" selection-end-line="630" selection-end-column="15" />
         </state>
       </provider>
     </entry>

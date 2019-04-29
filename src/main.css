@@ -562,10 +562,8 @@ body {
   margin-left: 95px;
 }
 
-.useful-features__term {
-  max-width: 37px;
-  height: 28px;
-
+.useful-features__image {
+  max-width: fit-content;
 }
 
 .useful-features__description {
@@ -583,10 +581,7 @@ body {
   position: absolute;
   max-width: 1440px;
   min-height: 400px;
-  /*margin-bottom: 60px;*/
   overflow: hidden;
-  /*background-color: #00adee;*/
-  /*border: black;*/
   background-image: linear-gradient(
     to right,
     var(--white_color),
@@ -594,7 +589,6 @@ body {
     transparent 85%,
     var(--white_color) 95%
   );
-  /*box-sizing: border-box;*/
   left: 0;
   right: 0;
   z-index: 2;
@@ -606,7 +600,6 @@ body {
   flex-direction: column;
   max-width: 1440px;
   min-height: 400px;
-  /*margin-bottom: 60px;*/
   overflow: hidden;
 }
 
