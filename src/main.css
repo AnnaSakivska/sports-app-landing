@@ -21,10 +21,16 @@ body {
   position: relative;
   display: flex;
   flex-direction: column;
-  max-width: 1440px;
   height: 100vh;
-  background: url("img/mobiles.png") no-repeat 505px 0 var(--grey_block-background_color);
+  background: url("img/mobiles.png") no-repeat top right var(--grey_block-background_color);
+  background-size: contain;
   overflow: hidden;
+}
+
+@media (max-width: 1440px) {
+  .first-block {
+    height: 665px;
+  }
 }
 
 .first-block__main-part {
@@ -79,18 +85,16 @@ body {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: space-between;
-  max-width: 1440px;
-  height: 592px;
+  min-height: 592px;
 }
 
 .second-block__left {
   display: flex;
   flex-direction: column;
-  max-width: 805px;
+  flex-basis: 750px;
   height: 592px;
-  background: linear-gradient(270deg, var(--white_color) 5.16%,
-  rgba(255, 255, 255, 0) 67.14%),
+  background: linear-gradient(270deg, var(--white_color) 5%,
+  rgba(255, 255, 255, 0) 90%),
     url("img/players_hugs.png") no-repeat;
 }
 
@@ -240,14 +244,10 @@ body {
 }
 
 .second-block__right {
-  background: var(--white_color);
-  position: absolute;
-  z-index: 2;
   display: flex;
   flex-direction: column;
   max-width: 426px;
-  left: 805px;
-  top: 133px;
+  margin: 133px auto auto;
 }
 
 .second-block__subtitle {
@@ -303,7 +303,6 @@ body {
   position: relative;
   display: flex;
   flex-direction: row;
-  max-width: 1440px;
   height: 716px;
   overflow: hidden;
 }
@@ -313,12 +312,11 @@ body {
   display: flex;
   flex-direction: column;
   z-index: 1;
-  margin: 217px 38px 171px 163px;
-  max-width: 656px;
+  padding-top: 217px;
+  padding-left: 163px;
 }
 
 .third-block__subtitle {
-  /*margin-bottom: 27px;*/
   margin-top: 0;
 }
 
@@ -374,11 +372,10 @@ body {
 
 .phone-radiation {
   position: relative;
-  max-width: 800px;
+  max-width: 50%;
   height: 716px;
   display: flex;
-  margin-top: 65px;
-  margin-left: 200px;
+  margin: 65px auto;
 }
 
 .phone-app-picture {
@@ -527,7 +524,6 @@ body {
 .useful-features {
   display: flex;
   flex-direction: column;
-  max-width: 1440px;
   min-height: 735px;
   background: var(--light_blue_color);
 }
@@ -579,7 +575,6 @@ body {
 
 .carousel-background {
   position: absolute;
-  max-width: 1440px;
   min-height: 400px;
   overflow: hidden;
   background-image: linear-gradient(
@@ -598,7 +593,6 @@ body {
   position: relative;
   display: flex;
   flex-direction: column;
-  max-width: 1440px;
   min-height: 400px;
   overflow: hidden;
 }
@@ -742,7 +736,6 @@ body {
 
 .brands {
   position: relative;
-  max-width: 1440px;
   min-height: 278px;
   display: flex;
   flex-wrap: wrap;
@@ -753,7 +746,6 @@ body {
 }
 
 .brands_title-container {
-  max-width: 1440px;
   margin: 30px auto 13px;
 }
 
@@ -767,9 +759,10 @@ body {
 
 .brands-container {
   display: flex;
-  max-width: 1120px;
   justify-content: space-between;
+  flex-wrap: wrap;
   margin-left: 140px;
+  margin-right: 179px;
   list-style: none;
   align-items: center;
 }
@@ -779,15 +772,17 @@ body {
 .checking-score {
   display: flex;
   flex-direction: row;
-  max-width: 1440px;
+  justify-content: space-around;
 }
 
 .checking-score_image {
+  flex-basis: 50%;
   margin: 0 0 -3px;
 }
 
 .checking-score_description-wrapper {
   display: flex;
+  flex-basis: 50%;
   flex-direction: column;
   margin-top: 75px;
   margin-left: 77px;
@@ -823,7 +818,6 @@ body {
 /*landing of footer*/
 
 .footer {
-  max-width: 1440px;
   min-height: 127px;
   display: flex;
   flex-direction: row;
